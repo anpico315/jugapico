@@ -1,11 +1,9 @@
 {
-    "JugaEnable": false,
-    "JugaYazikii": ["Russian"],
-    "JugaVremyaZones": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "JugaEnable": true,
+    "JugaYazikii": ["Spanish"],
+    "JugaVremyaZones": ["Buenos_Aires", "Argentina", "Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
     "JugaSsilks": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wzyuh.com/casino/list?open=register&p=34jd"]}
     ]
  }
